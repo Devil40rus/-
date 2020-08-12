@@ -1,4 +1,4 @@
-# Тестовое задание
+# Тестовое задание COMS
 
 ## Установка
 
@@ -11,3 +11,5 @@ cd ..
 npm install
 
 node server/server.js
+
+npm run dev
